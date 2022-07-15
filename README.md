@@ -7,11 +7,17 @@
 - Physics and Simulations
 - And more experiments! ✨
 
+## Skills
+
+- C++, Python, Java
+- HTML, CSS, JS
+- Docker
+- Linux
+
 ## Reach me
 
 - KohGeek#1337 (Discord)
 - jundong.koh@gmail.com
-- [Twitter](https://twitter.com/KohGeek)
 
 ## Repo Stats
 
