@@ -9,9 +9,10 @@ Currently working on:
 ## Skills
 
 - C++, Python, Java
-- HTML, CSS, JS
+- Web development (React, Laravel, HTML, CSS, JS, PHP)
 - Docker
 - Linux
+- MongoDB, MySQL
 
 ## Interests and Learning
 
@@ -24,6 +25,7 @@ Currently working on:
 
 - KohGeek#1337 (Discord)
 - jundong.koh@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/kohjundong/)
 
 ## Repo Stats
 
