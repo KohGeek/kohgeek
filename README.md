@@ -1,11 +1,10 @@
 # Hi, it's your friendly neighbourhood roo!
 
-## Interests and Learning
+Software Engineering soon-to-be graduate. Familiar with DevOps. Working with ASPL on image segmentation FYP. Helped address bugs during internship with Western Digital.
 
-- Machine Learning, Artificial Intelligence
-- Computer Graphics
-- Physics and Simulations
-- And more experiments! ✨
+Currently working on:
+- FYP (aforementioned ASPL project)
+- Some [RedBot](https://github.com/Cog-Creators/Red-DiscordBot) cogs
 
 ## Skills
 
@@ -13,6 +12,13 @@
 - HTML, CSS, JS
 - Docker
 - Linux
+
+## Interests and Learning
+
+- ~Machine Learning, Artificial Intelligence~ Never mind, I'm not really built for reading papers, but data analysis is still fun!
+- Computer Graphics
+- Physics and Simulations
+- And more experiments! ✨
 
 ## Reach me
 
