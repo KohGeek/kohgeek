@@ -1,24 +1,28 @@
 # Hi, it's your friendly neighbourhood roo!
 
-Software Engineering soon-to-be graduate. Familiar with DevOps. Working with ASPL on image segmentation FYP. Helped address bugs during internship with Western Digital.
+SE Graduate. Currently WDC Employee as enterprise HDD firmware engineer. Dabbled in DevOps, Linux, ML and other random scripts.
+
+I run a homelab on Pi 4 with Home Assistant and PiHole, externally secured and accessible via Tailscale VPN.
 
 Currently working on:
-- FYP (aforementioned ASPL project)
 - Some [RedBot](https://github.com/Cog-Creators/Red-DiscordBot) cogs
+- Maintaining hotkeys for voicemeeter
+- (Barely) Maintaining the YTSortLater script
+- Looking into updating the FoundryVTT Module for Stars/World Without Numbers (WWN primarily)
 
 ## Skills
 
 - C++, Python, Java
 - Web development (React, Laravel, HTML, CSS, JS, PHP)
-- Docker
-- Linux
+- Docker, Linux and Sysadminy stuff
 - MongoDB, MySQL
+- Intermediate networking
 
 ## Interests and Learning
 
-- ~Machine Learning, Artificial Intelligence~ Never mind, I'm not really built for reading papers, but data analysis is still fun!
-- Computer Graphics
-- Physics and Simulations
+- Computer graphics
+- Physics and simulations
+- MIPS or other similar low level code
 - And more experiments! ✨
 
 ## Reach me
