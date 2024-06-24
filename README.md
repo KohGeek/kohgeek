@@ -8,7 +8,7 @@ Currently working on:
 - Some [RedBot](https://github.com/Cog-Creators/Red-DiscordBot) cogs
 - Maintaining hotkeys for voicemeeter
 - (Barely) Maintaining the YTSortLater script
-- Looking into updating the FoundryVTT Module for Stars/World Without Numbers (WWN primarily)
+- Looking into updating the FoundryVTT Module for Stars/Cities Without Numbers (CWN primarily)
 
 ## Skills
 
