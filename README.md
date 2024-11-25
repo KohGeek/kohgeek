@@ -5,16 +5,16 @@ SE Graduate. Currently WDC Employee as enterprise HDD firmware engineer. Dabbled
 I run a homelab on Pi 4 with Home Assistant and PiHole, externally secured and accessible via Tailscale VPN.
 
 Currently working on:
-- Some [RedBot](https://github.com/Cog-Creators/Red-DiscordBot) cogs
+- (Barely) Some [RedBot](https://github.com/Cog-Creators/Red-DiscordBot) cogs
 - Maintaining hotkeys for voicemeeter
 - (Barely) Maintaining the YTSortLater script
 - Looking into updating the FoundryVTT Module for Stars/Cities Without Numbers (CWN primarily)
 
 ## Skills
 
+- Docker, Linux and anything sysadmin
 - C++, Python, Java
 - Web development (React, Laravel, HTML, CSS, JS, PHP)
-- Docker, Linux and Sysadminy stuff
 - MongoDB, MySQL
 - Intermediate networking
 
@@ -27,8 +27,8 @@ Currently working on:
 
 ## Reach me
 
-- KohGeek#1337 (Discord)
-- jundong.koh@gmail.com
+- kohgeek (Discord)
+- github@kohgeek.dev
 - [LinkedIn](https://www.linkedin.com/in/kohjundong/)
 
 ## Repo Stats
